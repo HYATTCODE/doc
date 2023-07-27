@@ -1,6 +1,11 @@
 # HYATT CODE 
 
-> 一个中文操作日志知识库 [HYATT CODE](https://github.com/docsifyjs/docsify/) 简洁高效的分享各类操作手册
+> 一个中文操作日志知识库 [HYATT CODE](https://hyattcode.github.io/doc/#/) 简洁高效的分享各类操作手册
+> C Chinese 中文
+> O Operator 操作
+> D Diary 日志
+> E Editable （用户）可编辑的
+> 项目
 
 ## Site Setup
 
