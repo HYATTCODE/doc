@@ -1,6 +1,6 @@
-# Docsify Template
+# HYATT CODE 
 
-> A simple [Docsify](https://github.com/docsifyjs/docsify/) template for creating Markdown-based documentation sites, with no build process required.
+> 一个中文操作日志知识库 [HYATT CODE](https://github.com/docsifyjs/docsify/) 简洁高效的分享各类操作手册
 
 ## Site Setup
 
